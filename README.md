@@ -5,7 +5,8 @@ A Freelance Front End Web Developer with experience using HTML5, CSS3, JavaScrip
 ---
 
 🧰 Toolbox
-<img src="https://logodix.com/logos/954593"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML 5 Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 
 ---
